@@ -14,5 +14,7 @@ Instructions:
 -Once registered, the bot should relay text.
 
 Current commands:
+
 '~register' , sets default owner for that instance. IRC/Discord owners are separate for unique use cases.
 '~makebreakfast' , sends an egg emoji to discord so that you can make breakfast.
+'~join #channel' , allows the bot to join a new IRC channel; will relay messages from the channel to the discord, but not across other IRC channels. Requires console verification.
