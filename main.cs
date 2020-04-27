@@ -29,7 +29,7 @@ namespace NomBot
         #region Static Member Variables
         static string originalUser = ""; //Used for IRC ownership tracking
         static bool hasOwner = false; //Used for IRC ownership tracking
-        const string TOKEN = "NDI1NzUxMTk3OTYyNzMxNTIx.XmEmsg.PRbg21QXaJ6Ue5js07vTd9pl0aU"; //BOT TOKEN, DO NOT RELEASE PUBLICLY
+        const string TOKEN = ""; //BOT TOKEN, DO NOT RELEASE PUBLICLY
 
         const long DISCORD_SERVER_ID = 299653823503400960;
         static SocketUser originalDiscordUser; //Used for Discord ownership tracking
